@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5bc6d54e.css",
+    "main.js": "/static/js/main.bc853738.js",
+    "static/js/488.5dc00adb.chunk.js": "/static/js/488.5dc00adb.chunk.js",
+    "static/media/Loader.gif": "/static/media/Loader.a1a996746e5e48352c81.gif",
+    "static/media/mid.jpg": "/static/media/mid.1210461328cd7d44ace2.jpg",
+    "static/media/low.jpg": "/static/media/low.796ea280298efcc19eb7.jpg",
+    "static/media/high.jpg": "/static/media/high.ca0c637972a0af6f0b93.jpg",
+    "static/media/LexLogo.webp": "/static/media/LexLogo.043c89df3564807ef987.webp",
+    "index.html": "/index.html",
+    "main.5bc6d54e.css.map": "/static/css/main.5bc6d54e.css.map",
+    "main.bc853738.js.map": "/static/js/main.bc853738.js.map",
+    "488.5dc00adb.chunk.js.map": "/static/js/488.5dc00adb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5bc6d54e.css",
+    "static/js/main.bc853738.js"
+  ]
+}
