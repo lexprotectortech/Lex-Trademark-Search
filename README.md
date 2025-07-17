@@ -1,1 +1,1 @@
-"# Lex-Trademark-Search" 
+# Lex-Trademark-Search
